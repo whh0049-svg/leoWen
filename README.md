@@ -1,0 +1,1 @@
+[![CI](https://github.com/whh0049-svg/leoWen/actions/workflows/ci.yml/badge.svg)](https://github.com/whh0049-svg/leoWen/actions/workflows/ci.yml)
