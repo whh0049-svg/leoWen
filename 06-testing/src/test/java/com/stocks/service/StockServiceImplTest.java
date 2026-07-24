@@ -73,7 +73,7 @@ class StockServiceImplTest {
         List<Stock> result = service.getAllStocks();
 
         assertThat(result).hasSize(1);
-        assertThat(result.getFirst().symbol()).isEqualTo("HSBA");
+        assertThat(result.get(0).symbol()).isEqualTo("HSBA");
     }
 
     @Test

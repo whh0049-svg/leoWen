@@ -1,0 +1,15 @@
+C:\Users\Administrator\IdeaProjects\leoWen\06-testing\src\main\java\com\stocks\controller\GlobalExceptionHandler.java
+C:\Users\Administrator\IdeaProjects\leoWen\06-testing\src\main\java\com\stocks\controller\PriceController.java
+C:\Users\Administrator\IdeaProjects\leoWen\06-testing\src\main\java\com\stocks\controller\StockController.java
+C:\Users\Administrator\IdeaProjects\leoWen\06-testing\src\main\java\com\stocks\dto\AddPriceRequest.java
+C:\Users\Administrator\IdeaProjects\leoWen\06-testing\src\main\java\com\stocks\dto\CreateStockRequest.java
+C:\Users\Administrator\IdeaProjects\leoWen\06-testing\src\main\java\com\stocks\dto\StockResponse.java
+C:\Users\Administrator\IdeaProjects\leoWen\06-testing\src\main\java\com\stocks\model\HistoricalPrice.java
+C:\Users\Administrator\IdeaProjects\leoWen\06-testing\src\main\java\com\stocks\model\Stock.java
+C:\Users\Administrator\IdeaProjects\leoWen\06-testing\src\main\java\com\stocks\repository\HistoricalPriceRepository.java
+C:\Users\Administrator\IdeaProjects\leoWen\06-testing\src\main\java\com\stocks\repository\JdbcHistoricalPriceRepository.java
+C:\Users\Administrator\IdeaProjects\leoWen\06-testing\src\main\java\com\stocks\repository\JdbcStockRepository.java
+C:\Users\Administrator\IdeaProjects\leoWen\06-testing\src\main\java\com\stocks\repository\StockRepository.java
+C:\Users\Administrator\IdeaProjects\leoWen\06-testing\src\main\java\com\stocks\service\StockService.java
+C:\Users\Administrator\IdeaProjects\leoWen\06-testing\src\main\java\com\stocks\service\StockServiceImpl.java
+C:\Users\Administrator\IdeaProjects\leoWen\06-testing\src\main\java\com\stocks\StockApplication.java
