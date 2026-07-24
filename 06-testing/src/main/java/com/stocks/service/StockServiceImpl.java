@@ -32,12 +32,10 @@ public class StockServiceImpl implements StockService {
 
     @Override
     public Stock addStock(Stock stock) {
-//        stockRepository.findBySymbol(stock.symbol()).ifPresent(s -> {
-//            throw new IllegalArgumentException("Duplicate symbol: " + stock.symbol());
-//        });
-//        return stockRepository.save(stock);
-
-        throw new IllegalArgumentException("Always broken: " + stock.symbol());
+        stockRepository.findBySymbol(stock.symbol()).ifPresent(s -> {
+            throw new IllegalArgumentException("Duplicate symbol: " + stock.symbol());
+        });
+        return stockRepository.save(stock);
     }
 
     @Override
